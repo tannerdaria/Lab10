@@ -1,3 +1,9 @@
+/*
+Lab 10
+Me: Tanner Daria. Partner: Alex Hils.
+Date: 11/23
+*/
+
 class Main {
   public static void main(String[] args) {
     Sugar tree = new Sugar("tree");
